@@ -13,7 +13,7 @@
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MsSQL" height="30" width="40" src="[https://images.app.goo.gl/mVwJMiTXCZm4Vh9L7](https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1035px-Microsoft_SQL_Server_Logo.svg.png?20100429075711)">
+  <img align="center" alt="MsSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1035px-Microsoft_SQL_Server_Logo.svg.png?20100429075711">
 </p>
 
 ![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=AbdulsametKR54&label=Profile+views&color=blue&style=flat)
