@@ -1,43 +1,22 @@
 <div align="center">
-
-<table style="border-collapse: collapse; width: 350px; background-color: #0d1117; border-radius: 10px; padding: 15px;">
-<tr>
-<td>
-
-<h3 style="color: #e6edf3; margin: 0 0 10px 0; font-size: 16px;">Most used languages</h3>
-
-<div style="width: 100%; height: 8px; background: #2a2f3a; border-radius: 5px; overflow: hidden; margin-bottom: 15px;">
-  <div style="width: 74.28%; height: 100%; background: #3178c6;"></div>
-  <div style="width: 10.23%; height: 100%; background: #f1a800;"></div>
-  <div style="width: 6.84%; height: 100%; background: #f0db4f;"></div>
-  <div style="width: 4.22%; height: 100%; background: #563d7c;"></div>
-  <div style="width: 1.92%; height: 100%; background: #3572A5;"></div>
-  <div style="width: 0.79%; height: 100%; background: #ff5a03;"></div>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AbdulsametKR54&theme=github_dark&show_icons=true&hide_title=true&hide_border=true" height="140">
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AbdulsametKR54&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true" height="140">
 </div>
 
-<div style="font-size: 14px; color: #e6edf3;">
-  <div style="margin-bottom: 6px;">
-    <span style="color:#3178c6;">●</span> TypeScript — 74.28%
-  </div>
-  <div style="margin-bottom: 6px;">
-    <span style="color:#f1a800;">●</span> Jupyter Notebook — 10.23%
-  </div>
-  <div style="margin-bottom: 6px;">
-    <span style="color:#f0db4f;">●</span> JavaScript — 6.84%
-  </div>
-  <div style="margin-bottom: 6px;">
-    <span style="color:#563d7c;">●</span> CSS — 4.22%
-  </div>
-  <div style="margin-bottom: 6px;">
-    <span style="color:#3572A5;">●</span> Python — 1.92%
-  </div>
-  <div>
-    <span style="color:#ff5a03;">●</span> Astro — 0.79%
-  </div>
-</div>
+---
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="VisualStudio" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg">
+  <img align="center" alt="C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt=".NET" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="MsSQL" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg">
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulsametKR54&label=Profile+views&color=blue&style=flat">
+</p>
