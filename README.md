@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulsametKR54&theme=github_dark&show_icons=true&hide_title=true&hide_border=true&v=1" height="140" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsametKR54&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true&v=1" height="140" alt="Top Languages">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulsametKR54&theme=github_dark&show_icons=true&hide_title=true&hide_border=true)](https://github.com/AbdulsametKR54)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsametKR54&layout=compact&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/AbdulsametKR54)
+
 </div>
 
 ---
